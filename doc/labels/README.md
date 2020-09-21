@@ -31,7 +31,7 @@
     ],
     "data_illegalList":[
         {
-            "msgCode":"1",          //支持
+            "msgCode":"1",          //未支持
             "dkh":"11",
             "hphm":"沪A00001",
             "hpzl":"01",
